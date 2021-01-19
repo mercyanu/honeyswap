@@ -1,0 +1,91 @@
+.liquid-link {
+    padding: 22px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid transparent;
+    text-decoration: none !important;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+    background-color: rgb(124, 224, 214);
+    color: white;
+}
+
+.liquid-link:hover{
+    color: #ffffff !important;
+    background-color: rgb(98, 216, 204);
+}
+
+.pool-output-cont {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    display: flex;
+    padding: 24px 16px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    color: rgb(86, 90, 105);
+    
+}
+
+.pool-text {
+    box-sizing: border-box;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000;
+    
+}
+
+.pool-dash {
+    box-sizing: border-box;
+    width: 30px;
+}
+
+.conn-1{
+    width: 100%;
+    border: 1px solid rgb(247, 248, 250);
+    border-radius: 15px;
+    padding: 45px 35px;
+    text-align: center;
+    color: rgb(136, 141, 155);
+    font-size: 1rem;
+}
+
+.import-1{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.import-1 a{
+    color: rgb(124, 224, 214);
+    cursor: pointer;
+}
+.migrate-btn {
+    position: relative;
+    top: 75px;
+    text-align: center;
+}
+
+.migrate-btn a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #7ce0d6;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 20px 10px;
+    border-radius: 8px;
+}

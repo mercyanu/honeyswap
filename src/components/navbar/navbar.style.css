@@ -1,0 +1,115 @@
+
+.navbar {
+    padding: 1rem 1rem !important;
+}
+
+.navmenu {
+    height: fit-content;
+}
+  
+.App-logo {
+    width: 39px;
+    height: 28px;
+  }
+
+.menu-item-1 {
+    box-sizing: border-box;
+    margin: 0px 10px 0px 0px;
+    background-color: rgba(243, 132, 30, 0.05);
+    color: rgb(243, 132, 30) !important;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    border-radius: 12px;
+    padding: 8px 12px;
+    text-align: center;
+}
+
+.menu-item-2 {
+    text-align: center;
+    outline: none;
+    text-decoration: none;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    font-size: 16px;
+    display: flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 12px;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(124, 224, 214);
+    border: 1px solid rgb(124, 224, 214);
+    color: rgb(255, 255, 255) !important;
+}
+
+.btn-cont {
+    background-color: rgb(237, 238, 242) !important;
+    border-radius: 0.5rem !important;
+    padding: 4px 7px;
+}
+
+.btn-icon {
+    width: 18px;
+    height: 18px;
+  }
+
+.btn-primary{
+    background-color: rgb(237, 238, 242) !important;
+    border:none !important;
+    height: fit-content;
+    width: fit-content;
+    margin-right: 7px;
+    border-radius: 0.5rem !important;
+
+}
+
+.btn-primary:hover {
+    background-color: rgb(200, 200, 200) !important;
+}
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+.dropdown-menu {
+    min-width: 8rem !important;
+    background-color:  rgb(237, 238, 242) !important;
+    border: none !important;
+    border-radius: 0.5rem !important;
+    box-shadow: rgba(0, 0, 0, 0.01) 0px 0px 1px, rgba(0, 0, 0, 0.04) 0px 4px 8px, rgba(0, 0, 0, 0.04) 0px 16px 24px, rgba(0, 0, 0, 0.01) 0px 24px 32px;
+    padding: 0.5rem !important;
+    position: absolute !important;
+    top: 3.5rem !important;
+    left: -5rem !important;
+    z-index: 100;
+}
+
+@media (max-width: 991px) {
+    .dropdown-menu{
+        left: 0rem !important;
+
+    }
+}
+
+.dropdown-item {
+    padding: 0.7rem !important;
+    color: rgb(86, 90, 105);
+    font-size: 1rem;
+}
+.dropdown-item:hover{
+    background-color: rgb(237, 238, 242) !important;
+}
+
+.dropdown-item img {
+    width: 14px;
+    height: 14px;
+    margin-right: 8px;
+    color: rgb(234, 238, 14);
+}
