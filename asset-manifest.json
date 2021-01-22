@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/honeyswap/static/css/main.3a9e5181.chunk.css",
+    "main.js": "/honeyswap/static/js/main.d77dbdb1.chunk.js",
+    "main.js.map": "/honeyswap/static/js/main.d77dbdb1.chunk.js.map",
+    "runtime-main.js": "/honeyswap/static/js/runtime-main.af5fdc7c.js",
+    "runtime-main.js.map": "/honeyswap/static/js/runtime-main.af5fdc7c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/honeyswap/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.593e1fd9.chunk.js": "/honeyswap/static/js/2.593e1fd9.chunk.js",
+    "static/js/2.593e1fd9.chunk.js.map": "/honeyswap/static/js/2.593e1fd9.chunk.js.map",
+    "static/js/3.127c3138.chunk.js": "/honeyswap/static/js/3.127c3138.chunk.js",
+    "static/js/3.127c3138.chunk.js.map": "/honeyswap/static/js/3.127c3138.chunk.js.map",
+    "index.html": "/honeyswap/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/honeyswap/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.3a9e5181.chunk.css.map": "/honeyswap/static/css/main.3a9e5181.chunk.css.map",
+    "static/js/2.593e1fd9.chunk.js.LICENSE.txt": "/honeyswap/static/js/2.593e1fd9.chunk.js.LICENSE.txt",
+    "static/media/analytics.d70c753b.svg": "/honeyswap/static/media/analytics.d70c753b.svg",
+    "static/media/arrow-1.bdefdcbe.svg": "/honeyswap/static/media/arrow-1.bdefdcbe.svg",
+    "static/media/arrow-2-white.2c9e1479.svg": "/honeyswap/static/media/arrow-2-white.2c9e1479.svg",
+    "static/media/arrow-2.e5284d57.svg": "/honeyswap/static/media/arrow-2.e5284d57.svg",
+    "static/media/close.17a94979.svg": "/honeyswap/static/media/close.17a94979.svg",
+    "static/media/code.55518e92.svg": "/honeyswap/static/media/code.55518e92.svg",
+    "static/media/docs.edde37ca.svg": "/honeyswap/static/media/docs.edde37ca.svg",
+    "static/media/help.bbfaa137.svg": "/honeyswap/static/media/help.bbfaa137.svg",
+    "static/media/honeyswap-logo.e16f0865.svg": "/honeyswap/static/media/honeyswap-logo.e16f0865.svg",
+    "static/media/info.2084271e.svg": "/honeyswap/static/media/info.2084271e.svg",
+    "static/media/information.7511e037.svg": "/honeyswap/static/media/information.7511e037.svg",
+    "static/media/settings.0b120df2.svg": "/honeyswap/static/media/settings.0b120df2.svg",
+    "static/media/square-dots.fb2ec855.svg": "/honeyswap/static/media/square-dots.fb2ec855.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5fdc7c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.593e1fd9.chunk.js",
+    "static/css/main.3a9e5181.chunk.css",
+    "static/js/main.d77dbdb1.chunk.js"
+  ]
+}
