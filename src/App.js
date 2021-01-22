@@ -66,7 +66,7 @@ componentDidMount() {
 }
 */
 
-  handleChange(e) {
+  handleChange = (e) => {
     this.setState({searchField: e.target.value});
   }
   render() {
