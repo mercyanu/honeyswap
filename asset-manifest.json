@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/honeyswap/static/css/main.3a9e5181.chunk.css",
-    "main.js": "/honeyswap/static/js/main.d77dbdb1.chunk.js",
-    "main.js.map": "/honeyswap/static/js/main.d77dbdb1.chunk.js.map",
+    "main.js": "/honeyswap/static/js/main.da112d90.chunk.js",
+    "main.js.map": "/honeyswap/static/js/main.da112d90.chunk.js.map",
     "runtime-main.js": "/honeyswap/static/js/runtime-main.af5fdc7c.js",
     "runtime-main.js.map": "/honeyswap/static/js/runtime-main.af5fdc7c.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/honeyswap/static/css/2.20aa2d7b.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.593e1fd9.chunk.js",
     "static/css/main.3a9e5181.chunk.css",
-    "static/js/main.d77dbdb1.chunk.js"
+    "static/js/main.da112d90.chunk.js"
   ]
 }
